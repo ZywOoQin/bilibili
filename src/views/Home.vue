@@ -122,11 +122,11 @@
     .categorytab{
         position: relative;
         .category-ico{
+            height: 14px;
             position: absolute;
             z-index: 5;
             right: 0;
-            top: 1.944vw;
-            padding: 1.944vw 4.167vw;
+            padding: 15px 4.167vw;
             background-color: white;
             display: flex;
             align-content: center;
